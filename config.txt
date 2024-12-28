@@ -1,0 +1,4 @@
+{
+  "update_enabled": true,
+  "assets_saving_enabled": true
+}
