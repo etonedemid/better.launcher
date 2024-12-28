@@ -249,7 +249,7 @@ def setup_dark_theme(root):
     style.theme_use("clam")
 
     # Define color palette
-    bg_color = "#2E3440"     # main background
+    bg_color = "#0F0F0F"     # main background
     fg_color = "#D8DEE9"     # text
     accent_color = "#5E81AC" # accent color
     button_bg = "#434C5E"    # button background
@@ -323,7 +323,7 @@ def main_menu():
     root.columnconfigure(0, weight=1)
 
     # Title
-    title_label = ttk.Label(main_frame, text="Better-Game Launcher", font=("Segoe UI", 14, "bold"))
+    title_label = ttk.Label(main_frame, text="better.launcher", font=("Segoe UI", 14, "bold"))
     title_label.grid(row=0, column=0, pady=(0, 20))
 
     # Play button
