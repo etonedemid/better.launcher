@@ -293,7 +293,7 @@ def setup_dark_theme(root):
 # ------------------------------------
 def on_play_clicked():
     validate_daemon()
-    open_game_in_browser()
+    open_browser()
     start_daemon()
 
 def on_options_clicked(root):
