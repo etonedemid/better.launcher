@@ -214,7 +214,7 @@ def start_daemon():
         print("Daemon started successfully.")
     except Exception as e:
         print(f"Failed to start daemon: {e}")
-
+print("fein")
 def stop_daemon():
     """
     Stop the daemon process if it's running.
