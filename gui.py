@@ -249,11 +249,11 @@ def setup_dark_theme(root):
     style.theme_use("clam")
 
     # Define color palette
-    bg_color = "#0F0F0F"     # main background
-    fg_color = "#D8DEE9"     # text
-    accent_color = "#5E81AC" # accent color
-    button_bg = "#434C5E"    # button background
-    entry_bg = "#3B4252"     # entry frames, etc.
+    bg_color = "#111111"     # main background
+    fg_color = "#dcdcdc"     # text
+    accent_color = "#222222" # accent color
+    button_bg = "#282828"    # button background
+    entry_bg = "#c8c8c8"     # entry frames, etc.
 
     # General styling
     style.configure(
