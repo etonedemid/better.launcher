@@ -1,0 +1,5 @@
+background=#111111
+foreground=#dcdcdc
+accent=#222222
+button_bg=#282828
+entry_bg=#c8c8c8
